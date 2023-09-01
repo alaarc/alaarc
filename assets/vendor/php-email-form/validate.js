@@ -18,7 +18,7 @@
       let recaptcha = thisForm.getAttribute('data-recaptcha-site-key');
       
       if( ! action ) {
-        displayError(thisForm, 'ahmetakpunar41@gmail.com');
+        displayError(thisForm, 'info@alaarc.com');
         return;
       }
       thisForm.querySelector('.loading').classList.add('d-block');
